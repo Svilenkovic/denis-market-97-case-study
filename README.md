@@ -31,7 +31,7 @@ I kept one brand with two separate branches: everything about the shop lives und
 - A sitemap built from the same data as the pages, so a new page cannot be left out of it
 - Opening hours for all seven days in structured data, with the pastry workshop linked to the company as a department
 - One contact form for both branches, with a topic selector, spam scoring and a log of every message, rejected ones included
-- Day and night themes and self-hosted fonts preloaded in both Latin subsets, so č, ć, š, ž and đ do not reflow the text
+- Day and night themes and self-hosted fonts, with the body font preloaded in both Latin subsets, so č, ć, š, ž and đ do not reflow the text
 
 ## Results
 

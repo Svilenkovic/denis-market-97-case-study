@@ -31,7 +31,7 @@ Zadržao sam jedan brend sa dve odvojene grane: sve o radnji stoji pod /market/,
 - Mapa sajta se ispisuje iz istih podataka kao i strane, pa nova strana ne može da ostane van nje
 - Radno vreme za svih sedam dana u strukturisanim podacima, a pogon za kore je vezan za firmu kao njen deo
 - Jedna kontakt forma za obe grane, sa izborom teme, bodovanjem neželjene pošte i dnevnikom svih poruka, pa i odbijenih
-- Dnevna i noćna tema i fontovi sa sopstvenog servera, unapred učitani u oba latinična podskupa, pa č, ć, š, ž i đ ne prelamaju tekst iznova
+- Dnevna i noćna tema i fontovi sa sopstvenog servera, a font za tekst unapred učitan u oba latinična podskupa, pa č, ć, š, ž i đ ne prelamaju tekst iznova
 
 ## Merenja
 
